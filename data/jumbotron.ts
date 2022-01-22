@@ -41,22 +41,13 @@ export const jumbotronButtonSet: {
     color: "primary",
     links: [
       {
-        localeKey: "whatsnew",
+        localeKey: "N-POST",
         link: "/tech/2021/05/30/Document-Main#Dev",
       },
       { localeKey: "demo", link: "https://szhshp.org" },
       {
-        localeKey: "documents",
+        localeKey: "N-PIC",
         link: "/tech/2021/05/30/Document-Main",
-      },
-    ],
-  },
-  {
-    setName: "github",
-    links: [
-      {
-        localeKey: "github",
-        link: "https://github.com/szhshp/NextJS-BlogTemplate-ProjectTitan",
       },
     ],
   },
