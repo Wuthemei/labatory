@@ -4,25 +4,23 @@ export const footerDef: FooterDef = {
   CREDITS: [
     {
       attr: {
-        text: "Main Director",
+        text: "Background by",
       },
       value: {
-        text: "Szhshp",
-        link: "https://szhshp.org",
+        text: "themeiwu",
       },
     },
     {
       attr: {
-        text: "Vi Director (Primary)",
+        text: "Content by",
       },
       value: {
-        text: "Project Titan",
-        link: "https://github.com/szhshp/NextJS-BlogTemplate-ProjectTitan",
+        text: "themeiwu",
       },
     },
     {
       attr: {
-        text: "Vi Director (Secondary)",
+        text: "",
       },
       value: {
         text: "Material UI",
@@ -31,16 +29,16 @@ export const footerDef: FooterDef = {
     },
     {
       attr: {
-        text: "Co-Vi Director (Legacy)",
+        text: "Host by",
       },
       value: {
-        text: "Project Gaia",
-        link: "https://github.com/szhshp/JekyllTheme-ProjectGaia",
+        text: "Github",
+        link: "https://github.com",
       },
     },
     {
       attr: {
-        text: "Dev Engine",
+        text: "Engine",
       },
       value: {
         text: "NextJS",
