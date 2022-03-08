@@ -23,7 +23,7 @@ const Home = (): JSX.Element => {
   return (
     <Content>
       <Head>
-        <title>{translate(locale.siteTitle)}</title>
+        <title>test</title>
       </Head>
       <>
         {SHOW_COMPONENT.JUMBOTRON && <Jumbotron />}
