@@ -70,9 +70,9 @@ const FooterBottom = (): JSX.Element => {
           name: "designedBy",
           content: (
             <>
-              Designed by{" "}
-              <Link href={SITE_CONFIG.host} color="secondary">
-                {SITE_CONFIG.author}
+              Powered by{" "}
+              <Link href="https://nextjs.org/" color="secondary">
+                Nextjs
               </Link>
             </>
           ),
