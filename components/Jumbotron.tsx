@@ -28,16 +28,17 @@ const Jumbotron = (): JSX.Element => {
             gutterBottom
             className="jumbotron-Title"
           >
-            在有生的瞬間能遇到你，竟花光所有{"運氣"}。
+            在有生的瞬間能遇到你，竟花光所有{""}
             <a href="https://music.163.com/#/song?id=65952&autoplay=true&market=baiduhd" style={{ color: "#ff8c00" }}> 
-            </a>
+              運氣
+            </a>。
           </Typography>
           <Typography
             variant="h1"
             gutterBottom
             className="jumbotron-Title jumbotron-Title-Main"
           >
-            <Box py={1} color="primary">Life is a endless journey</Box>
+            <Box py={1} color="primary">Hello World;</Box>
           </Typography>
           <Box>
             {jumbotronButtonSet.map(({ color, links }, index) => (
