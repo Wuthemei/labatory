@@ -28,9 +28,9 @@ const Jumbotron = (): JSX.Element => {
             gutterBottom
             className="jumbotron-Title"
           >
-            NextJS Blog Template by{" "}
+            在有生的瞬間能遇到你，竟花光所有{" "}
             <a href="https://szhshp.org/" style={{ color: "#ff8c00" }}>
-              Szhshp
+              運氣。
             </a>
           </Typography>
           <Typography
