@@ -16,7 +16,14 @@ export const showcaseContent: ShowcaseContentType[] = [
     title: "To Self",
     content:
       "愿<br><br>三十岁的你<br><br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br>如三十七岁那般未知<br><br>像是<br><br>来到世界第一天",
-    from: "二十九岁的自己",
+    from: "At the end of my 29s",
     creator: "Xinwei",
+  },
+  {
+    title: "床头灯",
+    content:
+      "做过的梦还倒背如流<br><br>只是有了不同的感受",
+    from: "上五楼的快活",
+    creator: "葛大为",
   },
 ];
