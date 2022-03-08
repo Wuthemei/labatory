@@ -13,9 +13,9 @@ export const showcaseContent: ShowcaseContentType[] = [
     creator: "Shing02",
   },
   {
-    title: "愿三十岁的你",
+    title: "To Self",
     content:
-      "愿<br>三十岁的你<br><br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br>如三十七岁那般未知<br><br>就像<br>来到世界第一天",
+      "愿<br><br>三十岁的你<br><br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br>如三十七岁那般未知<br><br>像是<br><br>来到世界第一天",
     from: "二十九岁的自己",
     creator: "Xinwei",
   },
