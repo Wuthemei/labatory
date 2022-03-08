@@ -4,7 +4,7 @@ export const footerDef: FooterDef = {
   CREDITS: [
     {
       attr: {
-        text: "Background by",
+        text: "Background By",
       },
       value: {
         text: "themeiwu",
@@ -13,15 +13,16 @@ export const footerDef: FooterDef = {
     },
     {
       attr: {
-        text: "Content by",
+        text: "Content By",
       },
       value: {
         text: "themeiwu",
+        link: "https://themeiwu.com/",
       },
     },
     {
       attr: {
-        text: "",
+        text: "UI Frame",
       },
       value: {
         text: "Material UI",
@@ -30,7 +31,7 @@ export const footerDef: FooterDef = {
     },
     {
       attr: {
-        text: "Host by",
+        text: "Host By",
       },
       value: {
         text: "Github",
@@ -48,7 +49,7 @@ export const footerDef: FooterDef = {
     },
     {
       attr: {
-        text: "Compiled by",
+        text: "Compiled By",
       },
       value: {
         text: "Vercel",
