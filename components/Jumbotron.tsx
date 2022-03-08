@@ -28,9 +28,9 @@ const Jumbotron = (): JSX.Element => {
             gutterBottom
             className="jumbotron-Title"
           >
-            在有生的瞬間能遇到你，竟花光所有{""}
+            special edition for the age of {""}
             <a href="https://music.163.com/#/song?id=65952&autoplay=true&market=baiduhd" style={{ color: "#ff8c00" }}> 
-              運氣
+             30s 
             </a>。
           </Typography>
           <Typography
