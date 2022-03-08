@@ -28,7 +28,7 @@ const Jumbotron = (): JSX.Element => {
             gutterBottom
             className="jumbotron-Title"
           >
-            special edition for the age of {""}
+            Special Edition For The Age Of {""}
             <a href="https://music.163.com/#/song?id=65952&autoplay=true&market=baiduhd" style={{ color: "#ff8c00" }}> 
              30s 
             </a>。
