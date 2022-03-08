@@ -15,7 +15,7 @@ export const showcaseContent: ShowcaseContentType[] = [
   {
     title: "To Self",
     content:
-      "在二十九岁的边沿<br><br>愿<br><br>三十岁的你<br><br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br>如三十七岁那般未知<br>...<br><br>像是<br><br>来到世界第一天",
+      "在二十九岁的边沿<br><br>愿<br><br>三十岁的你<br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br>如三十七岁那般未知<br>...<br><br>像是<br><br>来到世界第一天",
     from: "At the end of my 29s",
     creator: "Xinwei",
   },
