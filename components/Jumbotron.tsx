@@ -38,7 +38,7 @@ const Jumbotron = (): JSX.Element => {
             gutterBottom
             className="jumbotron-Title jumbotron-Title-Main"
           >
-            <Box py={1} color="primary">Hello World; |</Box>
+            <Box py={1} color="primary">Hello World; </Box>
           </Typography>
           <Box>
             {jumbotronButtonSet.map(({ color, links }, index) => (
