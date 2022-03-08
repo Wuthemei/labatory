@@ -31,7 +31,7 @@ const Jumbotron = (): JSX.Element => {
             Special Edition For The Age Of {""}
             <a href="https://music.163.com/#/song?id=65952&autoplay=true&market=baiduhd" style={{ color: "#ff8c00" }}> 
              30s 
-            </a>。
+            </a>
           </Typography>
           <Typography
             variant="h1"
