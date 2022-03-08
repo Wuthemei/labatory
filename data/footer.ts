@@ -34,7 +34,7 @@ export const footerDef: FooterDef = {
       },
       value: {
         text: "Github",
-        link: "https://github.com",
+        link: "https://github.com/themeiwu",
       },
     },
     {
