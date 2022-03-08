@@ -79,7 +79,7 @@ const FooterBottom = (): JSX.Element => {
         },
         {
           name: "author",
-          content: `Copyright © $themeiwu ${new Date().getFullYear()}`,
+          content: `Copyright © themeiwu ${new Date().getFullYear()}`,
         },
       ],
     },
