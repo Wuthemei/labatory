@@ -8,6 +8,7 @@ export const footerDef: FooterDef = {
       },
       value: {
         text: "themeiwu",
+        link: "https://themeiwu.com/",
       },
     },
     {
@@ -47,18 +48,19 @@ export const footerDef: FooterDef = {
     },
     {
       attr: {
-        text: "Co-Dev Engine",
+        text: "Compiled by",
       },
       value: {
         text: "Vercel",
+        link: "https://vercel.com/themeiwu/laboratory",
       },
     },
   ],
   CONTACT: [
     {
       attr: {
-        text: "Github",
-        link: "https://github.com/szhshp",
+        text: "Mail",
+        link: "mailto: themeiwu@hotmail.com",
       },
     },
   ],
