@@ -14,11 +14,10 @@
  */
 
 const backgroundPictureLib = [
-  "/public/img/bk1",
-  "/public/img/bk2",
-  "/public/img/bk3",
-  "/public/img/bk4",
-  "/public/img/bk5",
+  "/public/img/bk2.jpg",
+  "/public/img/bk3.jpg",
+  "/public/img/bk4.jpg",
+  "/public/img/bk5.jpg",
 ];
 
 export const backgroundPicture =
