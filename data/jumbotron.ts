@@ -14,10 +14,11 @@
  */
 
 const backgroundPictureLib = [
-  "https://raw.githubusercontent.com/themeiwu/labatory/main/public/img/bk2.jpg",
-  "https://raw.githubusercontent.com/themeiwu/labatory/main/public/img/bk3.jpg",
-  "https://raw.githubusercontent.com/themeiwu/labatory/main/public/img/bk4.jpg",
-  "https://raw.githubusercontent.com/themeiwu/labatory/main/public/img/bk5.jpg",
+  "https://i.picsum.photos/id/883/1600/900.jpg?hmac=49rmwhfGE92_ZEsHiXxZXgA4NByvYjWTS90bqDA7WRw",
+  "https://i.picsum.photos/id/514/1600/900.jpg?hmac=HM436m11iUPR612SKP_fiBW7D-pexeBM-ccVDCWMVvI",
+  "https://i.picsum.photos/id/156/1600/900.jpg?hmac=bA8Yky98CHBplqWexnq67L7fr5UVjnYZo43Mty3YHIo",
+  "https://i.picsum.photos/id/429/1600/900.jpg?hmac=dfkcm3X3VSQD8iKwMNx4Y6tWkpBqgs7ZGBISdk511Ww",
+  "https://i.picsum.photos/id/970/1600/900.jpg?hmac=6rqEhFf1yTuTJojRjfOuF5H7b-HM1igrLlPpmjFxvbM",
 ];
 
 export const backgroundPicture =
