@@ -14,10 +14,10 @@
  */
 
 const backgroundPictureLib = [
-  "/public/img/bk2.jpg",
-  "/public/img/bk3.jpg",
-  "/public/img/bk4.jpg",
-  "/public/img/bk5.jpg",
+  "https://raw.githubusercontent.com/themeiwu/labatory/main/public/img/bk2.jpg",
+  "https://raw.githubusercontent.com/themeiwu/labatory/main/public/img/bk3.jpg",
+  "https://raw.githubusercontent.com/themeiwu/labatory/main/public/img/bk4.jpg",
+  "https://raw.githubusercontent.com/themeiwu/labatory/main/public/img/bk5.jpg",
 ];
 
 export const backgroundPicture =
