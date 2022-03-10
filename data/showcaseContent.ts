@@ -13,11 +13,11 @@ export const showcaseContent: ShowcaseContentType[] = [
     creator: "Shing02",
   },
   {
-    title: "To Self",
+    title: "10.3.2022",
     content:
-      "在二十九岁的边沿<br><br>愿<br><br>三十岁的你<br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br>如三十七岁那般未知<br>...<br><br>像是<br><br>来到世界第一天",
-    from: "At the end of my 29s",
-    creator: "Xinwei",
+      "终于来到人生第三个十年的边缘<br><br>愿<br>三十岁的你<br><br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br>...<br>继续拥抱未知吧<br><br>像是<br><br>来到这里的第一天",
+    from: "来到这里的第一天",
+    creator: "新伟",
   },
   {
     title: "床头灯",
