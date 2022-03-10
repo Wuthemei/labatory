@@ -31,8 +31,8 @@ export const locale: {
     en: "Post Title",
   },
   whatsnew: {
-    zh: "What's New?",
-    en: "What's New?",
+    zh: "What's Up?",
+    en: "What's Up?",
   },
   button2: {
     zh: "按钮2",
