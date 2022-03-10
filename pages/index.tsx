@@ -23,7 +23,7 @@ const Home = (): JSX.Element => {
   return (
     <Content>
       <Head>
-        <title>themeiwu-30-years</title>
+        <title>Hello World;</title>
       </Head>
       <>
         {SHOW_COMPONENT.JUMBOTRON && <Jumbotron />}
