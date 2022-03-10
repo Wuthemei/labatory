@@ -15,9 +15,8 @@ export const showcaseContent: ShowcaseContentType[] = [
   {
     title: "10.3.2022",
     content:
-      "终于来到人生第三个十年的边缘<br><br>愿<br>三十岁的你<br><br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br>...<br>继续拥抱未知吧<br><br>像是<br><br>来到这里的第一天",
+      "终于来到人生第三个十年的边缘<br><br>愿<br>三十岁的你<br><br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br>...<br>未来将来<br>继续在未知中找到愉悦<br><br>像是<br><br>来到这里的第一天",
     from: "来到这里的第一天",
-    creator: "新伟",
   },
   {
     title: "床头灯",
