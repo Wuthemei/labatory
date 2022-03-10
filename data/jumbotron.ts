@@ -55,7 +55,7 @@ export const jumbotronButtonSet: {
     links: [
       {
         localeKey: "github",
-        link: "https://github.com/szhshp/NextJS-BlogTemplate-ProjectTitan",
+        link: "https://github.com/Wuthemei/wuthemei.github.io",
       },
     ],
   },
