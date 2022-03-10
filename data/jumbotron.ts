@@ -14,7 +14,6 @@
  */
 
 const backgroundPictureLib = [
-  "https://s1.ax1x.com/2022/03/11/b5mnS0.jpg",
   "https://i.picsum.photos/id/429/1600/900.jpg?hmac=dfkcm3X3VSQD8iKwMNx4Y6tWkpBqgs7ZGBISdk511Ww",
 ];
 
