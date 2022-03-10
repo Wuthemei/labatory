@@ -6,15 +6,15 @@ tags: ['30s', 'Commemorate']
 ---
 
 
-## Where the story begins
+## Hello World;
 
-Github: [Project Titan](https://github.com/szhshp/NextJS-BlogTemplate-ProjectTitan)
+终于引入了新模板，换了新架构，也顺便换了新的title，是的，一如既往的随意。
 
-- I'm [szhshp](https://szhshp.org/). My first blog is created with Jekyll, it is named `Project Gaia` and released in [Github](https://github.com/szhshp/JekyllTheme-ProjectGaia)
-- In July 2020 I created a similar template `Project Titan` with NextJS
-- The design of `Project Titan` is originated from `Project Gaia`
-- `Project Titan` is for more experienced developer/blogger. 
-- I tried to make it easy but it still require basic knowledge of **Typescript** and **NextJS**
+为什么换成Hello World;?
+
+此时，此地，此时区，自己还有两个小时不到就要迈入三十岁了。
+
+
 
 ## What's the differences? 
 
