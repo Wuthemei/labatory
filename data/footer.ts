@@ -7,8 +7,8 @@ export const footerDef: FooterDef = {
         text: "Background By",
       },
       value: {
-        text: "themeiwu",
-        link: "https://themeiwu.com/",
+        text: "Lorem",
+        link: "https://picsum.photos/",
       },
     },
     {
@@ -31,7 +31,7 @@ export const footerDef: FooterDef = {
     },
     {
       attr: {
-        text: "Host By",
+        text: "Hosted By",
       },
       value: {
         text: "Github",
@@ -43,7 +43,7 @@ export const footerDef: FooterDef = {
         text: "Engine",
       },
       value: {
-        text: "NextJS",
+        text: "Nextjs",
         link: "https://nextjs.org/",
       },
     },
