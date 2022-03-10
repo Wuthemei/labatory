@@ -1,4 +1,4 @@
-const MY_NAME = "szhshp";
+const MY_NAME = "themeiwu";
 const HEAD_IMAGE_URL = "/img/headshot.png";
 
 export const SITE_CONFIG = {
@@ -6,11 +6,11 @@ export const SITE_CONFIG = {
     zh: "Project Titan",
     en: "Project Titan",
   },
-  keywords: "szhshp,project titan",
+  keywords: "themeiwu,project titan",
   headImageUrl: HEAD_IMAGE_URL,
   author: MY_NAME,
-  motto: "To be different. ",
-  host: "https://szhshp.org",
+  motto: "Laugh as kids",
+  host: "https://themeiwu.com",
   font: {
     active: false /* Disabled 2020-12 */,
     fontName: "Cascadia",
