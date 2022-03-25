@@ -20,14 +20,6 @@ const backgroundPictureLib = [
   "https://i.picsum.photos/id/277/1600/900.jpg?hmac=qrh2_ubsgjQPkjvsXve4MHFhoLO-lBCjwu3fbmlRn50",
   "https://i.picsum.photos/id/211/1600/900.jpg?hmac=uuP7MUt6qSxdCfvx4ZZCSdkCUzvnmoGBrsV3ln-9gQ8",
 ];
-
-export const backgroundPicture =
-  backgroundPictureLib[Math.floor(Math.random() * backgroundPictureLib.length)];
-
-/**
- * @name jumbotronButtonSet
- * @description Jumbotron buttons
- */
 export const jumbotronButtonSet: {
   setName: string;
   color?: "primary" | "secondary" | "default" | undefined;
@@ -44,9 +36,10 @@ export const jumbotronButtonSet: {
         localeKey: "whatsnew",
         link: "/tech/2021/05/30/Document-Main#Dev",
       },
+      { localeKey: "demo", link: "https://szhshp.org" },
       {
-        localeKey: "tunning",
-        link: "https://github.com/themeiwu/labatory",
+        localeKey: "documents",
+        link: "/tech/2021/05/30/Document-Main",
       },
     ],
   },
@@ -54,8 +47,8 @@ export const jumbotronButtonSet: {
     setName: "github",
     links: [
       {
-        localeKey: "legacy",
-        link: " https://wuthemei.github.io/",
+        localeKey: "github",
+        link: "https://github.com/szhshp/NextJS-BlogTemplate-ProjectTitan",
       },
     ],
   },
