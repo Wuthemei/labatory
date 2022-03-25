@@ -45,8 +45,8 @@ export const jumbotronButtonSet: {
         link: "/tech/2021/05/30/Document-Main#Dev",
       },
       {
-        localeKey: "documents",
-        link: "/tech/2021/05/30/Document-Main",
+        localeKey: "tunning",
+        link: "https://github.com/themeiwu/labatory",
       },
     ],
   },
