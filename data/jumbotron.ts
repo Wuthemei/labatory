@@ -14,11 +14,11 @@
  */
 
 const backgroundPictureLib = [
-  "https://i.picsum.photos/id/311/1600/900.jpg?hmac=yUS02Bgwg81GbTpDuG813r871akJWNv-_Oem7a6PtWY",
-  "https://i.picsum.photos/id/83/1600/900.jpg?hmac=R9BQdLAPaGw27suOHRBe6G6xb7m1XzQlbsx7as1N7-s",
-  "https://i.picsum.photos/id/667/1600/900.jpg?hmac=JScRHUs-2c2rX10nkdYL8sWamAcZM0ax0n18X_N4s0Y",
-  "https://i.picsum.photos/id/888/1600/900.jpg?hmac=hw_TgE4fAZhZAjM5W_sTVY3_SpRrZU7vKw42ZtQt6mo",
-  "https://i.picsum.photos/id/649/1600/900.jpg?hmac=MfwiBIOCS7_7zBii3bCvlKJIUO7rxdhOtDPhgvnn8tk",
+  "https://i.picsum.photos/id/140/1600/900.jpg?hmac=qp3MWl0zuiUST9gyWtaj3meUReR_BXp_pVz_4UGGF_M",
+  "https://i.picsum.photos/id/989/1600/900.jpg?hmac=3afQuJFJg_WG_pvhdmb2jJNlkbB4p-3DtHhASkRv63o",
+  "https://i.picsum.photos/id/657/1600/900.jpg?hmac=zRm3_FNQOTU9sSENNp9AlYofiJzwy23UPTHW50PDrJ0",
+  "https://i.picsum.photos/id/277/1600/900.jpg?hmac=qrh2_ubsgjQPkjvsXve4MHFhoLO-lBCjwu3fbmlRn50",
+  "https://i.picsum.photos/id/211/1600/900.jpg?hmac=uuP7MUt6qSxdCfvx4ZZCSdkCUzvnmoGBrsV3ln-9gQ8",
 ];
 
 export const backgroundPicture =
@@ -54,8 +54,8 @@ export const jumbotronButtonSet: {
     setName: "github",
     links: [
       {
-        localeKey: "github",
-        link: "https://github.com/Wuthemei/wuthemei.github.io",
+        localeKey: "legacy",
+        link: " https://wuthemei.github.io/",
       },
     ],
   },
