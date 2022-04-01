@@ -71,16 +71,16 @@ export const locale: {
     en: "Categories",
   },
   github: {
-    zh: "Github",
-    en: "Github",
+    zh: "LEGACY",
+    en: "LEGACY",
   },
   documents: {
     zh: "原站",
     en: "legacy",
   },
   demo: {
-    zh: "Github",
-    en: "Github",
+    zh: "GITHUB",
+    en: "GITHUB",
   },
   loading: {
     zh: "正在加载",
