@@ -75,12 +75,12 @@ export const locale: {
     en: "Github",
   },
   documents: {
-    zh: "文档",
-    en: "DOCUMENTS",
+    zh: "原站",
+    en: "legacy",
   },
   demo: {
-    zh: "Demo Site",
-    en: "Demo Site",
+    zh: "Github",
+    en: "Github",
   },
   loading: {
     zh: "正在加载",
