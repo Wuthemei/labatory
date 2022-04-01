@@ -52,7 +52,7 @@ const Jumbotron = (): JSX.Element => {
               >
                 {links.map(({ localeKey, link }) => (
                   <Button href={link} key={localeKey}>
-                    {translate(locale[localeKey])}
+                    
                   </Button>
                 ))}
               </ButtonGroup>
