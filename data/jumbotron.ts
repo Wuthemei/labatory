@@ -43,7 +43,7 @@ export const jumbotronButtonSet: {
     color: "primary",
     links: [
       {
-        localeKey: "WHAT'S UP",
+        localeKey: "What's Up?",
         link: "/tech/2021/05/30/Document-Main#Dev",
       },
       { localeKey: "GITHUB", link: "https://github.com/themeiwu/labatory/" },
