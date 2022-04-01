@@ -44,7 +44,7 @@ export const jumbotronButtonSet: {
     links: [
       {
         localeKey: "What's Up?",
-        link: "/tech/2021/05/30/Document-Main#Dev",
+        link: "/life/2022/03/10/BeforeYouTry",
       },
       { localeKey: "GITHUB", link: "https://github.com/themeiwu/labatory/" },
     ],
