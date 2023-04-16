@@ -14,13 +14,7 @@
  */
 
 const backgroundPictureLib = [
-  "https://i.picsum.photos/id/842/1600/900.jpg?hmac=12NH3p2_TQiQzhnYkaQJVr3XwNDqng4-nZXbQ_CucP8",
-  "https://i.picsum.photos/id/642/1600/900.jpg?hmac=Zyg1Q-Yz4L0rHReTxMQ7ffngT38Zky-r56siLMa5SMU",
-  "https://i.picsum.photos/id/441/1600/900.jpg?hmac=GDnko0RbbLYfMHY7LbctM6f2hCKKdFeosCzDqMbNlmU",
-  "https://i.picsum.photos/id/261/1600/900.jpg?hmac=mTGFi5tN-U_CMJ46G0OUXOmYlRy-gwuelxx8ZKVjnTc",
-  "https://i.picsum.photos/id/931/1600/900.jpg?hmac=nzxfNzqISW2vrYATbyBer8zQaLvGApXc0HaP6Xu5OIA",
-  "https://i.picsum.photos/id/141/1600/900.jpg?hmac=_mziYng0Iey3xJRVJbOsR42JzvEx-4krniFL4TSJDgY",
-  "https://i.picsum.photos/id/864/1600/900.jpg?hmac=SXvZyArRFJuSlnjAIrXc5VFs-HRG3BI8Rzbj6qVOdjo",
+  "https://fastly.picsum.photos/id/395/1600/900.jpg?hmac=bJOgSJj9Wcer3NohLohpCmeu9DQ2TbTySNTQFN6Xgqo",
 ];
 
 export const backgroundPicture =
