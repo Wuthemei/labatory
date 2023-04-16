@@ -17,7 +17,7 @@ const backgroundPictureLib = [
   "https://picsum.photos/1600/900",
 ];
 
-export const backgroundPicture =
+/*export const backgroundPicture =
   backgroundPictureLib[Math.floor(Math.random() * backgroundPictureLib.length)];
 
 /**
