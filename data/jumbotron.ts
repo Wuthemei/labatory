@@ -23,7 +23,7 @@ const backgroundPictureLib = [
   "https://i.picsum.photos/id/864/1600/900.jpg?hmac=SXvZyArRFJuSlnjAIrXc5VFs-HRG3BI8Rzbj6qVOdjo",
 ];
 
-/*export const backgroundPicture =
+export const backgroundPicture =
   backgroundPictureLib[Math.floor(Math.random() * backgroundPictureLib.length)];
 
 /**
