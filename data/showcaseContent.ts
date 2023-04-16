@@ -6,16 +6,16 @@ import { ShowcaseContentType } from "types/showcaseContent";
  */
 export const showcaseContent: ShowcaseContentType[] = [
   {
-    title: "Life is a Journey Pt.2",
+    title: "赤壁赋",
     content:
-      "Dress up at the end of October,<br>Give thanks to the fam in November<br>a cold but cozy December<br>and we're back to the origin, so let me begin<br><br>Snow flakes in January<br>Heart warm like February,<br>I wouldn't ordinarily<br><br>March to the drum, play a fool like April<br>May the best sing in a June recital<br>Power of the will, Julius and Augustus<br>Aw you know, it's just us<br><br>In a new semester, back in September<br>boy, I wonder if you still remember",
-    from: "Life is a Journey|PISSY",
-    creator: "Shing02",
+      "惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色，取之无禁，用之不竭。<br>是造物者之无尽藏也，而吾与子之所共适。",
+    from: "赤壁赋",
+    creator: "苏轼",
   },
   {
     title: "10.3.2022",
     content:
-      "终于来到人生第三个十年的边缘<br><br>愿<br>三十岁的你<br><br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br><br>未来将来<br>在未知中找到愉悦<br><br>像是<br><br>来到这里的第一天",
+      "终于来到人生第三个十年的边缘<br><br>愿<br>三十岁的你<br><br>如七岁那般好奇<br>如十七岁那般坚定<br>如二十七岁那般无畏<br>像是<br><br>来到这里的第一天",
     from: "来到这里的第一天",
   },
   {
@@ -23,6 +23,12 @@ export const showcaseContent: ShowcaseContentType[] = [
     content:
       "做过的梦还倒背如流<br><br>只是有了不同的感受",
     from: "上五楼的快活",
-    creator: "葛大为",
+    creator: "陈奕迅",
+  },
+  {
+    title: "The Truman Show",
+    content:
+      "Good morning, and in case I don't see you<br><br>Good afternoon, Good evening, And good night.",
+    from: "The Truman Show",
   },
 ];
