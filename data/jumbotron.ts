@@ -14,7 +14,7 @@
  */
 
 const backgroundPictureLib = [
-  "https://picsum.photos/1600/900",
+  "/bg.jpg",
 ];
 
 export const backgroundPicture =
