@@ -33,7 +33,7 @@ export const jumbotronButtonSet: {
   }[];
 }[] = [
   {
-    setName: "tour",
+    setName: "whatsup",
     color: "primary",
     links: [
       {
@@ -44,7 +44,7 @@ export const jumbotronButtonSet: {
     ],
   },
   {
-    setName: "github",
+    setName: "legacy",
     links: [
       {
         localeKey: "legacy",
