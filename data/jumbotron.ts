@@ -14,7 +14,7 @@
  */
 
 const backgroundPictureLib = [
-  "/bg.jpg",
+  "https://fastly.picsum.photos/id/533/1600/900.jpg?hmac=K31bvA3Eokt47NIATN_BhV6Il0J7GHY54bxTdMVvsBU",
 ];
 
 export const backgroundPicture =
