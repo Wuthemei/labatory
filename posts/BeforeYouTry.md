@@ -1,6 +1,6 @@
 ---
 category: Life
-title: '来到地球第一天'
+title: '球第一天'
 date : '2022-03-10'
 tags: ['30s', 'Commemorate']
 ---
